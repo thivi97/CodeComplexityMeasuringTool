@@ -12,6 +12,15 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        
+            <h3>Choose File to Upload in Server</h3>
+            <form action="result.jsp" method="post" enctype="multipart/form-data">
+                <h3>File Upload:</h3>
+                Select a file to upload: <br/>
+                <input type="file" name="file"/>
+                <br/>
+                <input type="submit" value="upload"/>
+            </form>
+        
     </body>
 </html>

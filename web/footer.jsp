@@ -52,28 +52,28 @@
                         <td>+94 114 500 199</td>
                         <td>Terms of Service</td>
                         <td></td>
-                        <td>Face Book</td>
+                        <td><image class="icon" src="images/fb-art.png" width="40px" height="40px"/></td>
                     </tr>
                     
                     <tr>
                         <td>+94 077 366 9767</td>
                         <td>Privacy Policy</td>
                         <td></td>
-                        <td><img src="../src/java/images/insta.jpg"/></td>
+                        <td><image class="icon" src="images/google.png" width="40px" height="40px"/></td>
                     </tr>
                     
                     <tr>
                         <td>+94 077 700 6773</td>
                         <td>Trust & Safety</td>
                         <td></td>
-                        <td>Twitter</td>
+                        <td><image class="icon" src="images/twitter.png" width="40px" height="40px"/></td>
                     </tr>
                     
                     <tr>
                         <td>+94 077 787 6003</td>
                         <td>Trust & Safety</td>
                         <td></td>
-                        <td>Google+</td>
+                        <td><image class="icon" src="images/insta.jpg" width="40px" height="40px"/></td>
                     </tr>
                     
                 </table>

@@ -3,7 +3,7 @@
     Created on : 24-Feb-2020, 21:03:49
     Author     : User
 --%>
-
+<jsp:include page="header.jsp"/>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -15,6 +15,7 @@
             body{
                 background-color: #0F0228;
                 margin: 0px;
+                background-image: url(images/down.jpg)
             }
             
             .name{
@@ -131,5 +132,6 @@
                 
             </div>
         </div>
+        <jsp:include page="footer.jsp"/>
     </body>
 </html>
